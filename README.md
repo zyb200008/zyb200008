@@ -37,7 +37,7 @@
   <tr>
     <td align="center" width="48%">
       <a href="https://hulber.cn" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/map.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
+        <img src="https://hulber.cn/img/icon.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
         <br/><b>Hulunbuir Tourism Portal</b><br/>
         <sub>呼伦贝尔旅游门网</sub>
       </a>
