@@ -39,7 +39,7 @@
       <a href="https://hulber.cn" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/map.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
         <br/><b>Hulunbuir Tourism Portal</b><br/>
-        <sub>呼伦贝尔旅游门网/sub>
+        <sub>呼伦贝尔旅游门网</sub>
       </a>
       <br/>
       <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
@@ -146,7 +146,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00A67E&height=90&section=footer&animation=twinkling"/>
   <div>
-    <sup>© 2024 by <b>Eason Zhang</b>. All Rights Reserved.<br>
+    <sup>© 2025 by <b>Eason Zhang</b>. All Rights Reserved.<br>
     Powered by <a href="https://github.com/">GitHub</a> & various awesome open source projects</sup>
   </div>
 </div> 
@@ -302,7 +302,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00A67E&height=90&section=footer&animation=twinkling"/>
   <div>
-    <sup>© 2024 Eason Zhang. 版权所有。<br>
+    <sup>© 2025 Eason Zhang. 版权所有。<br>
     由 <a href="https://github.com/">GitHub</a> 与众多优秀开源项目驱动</sup>
   </div>
 </div>
