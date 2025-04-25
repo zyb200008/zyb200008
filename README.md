@@ -39,7 +39,7 @@
       <a href="https://hulber.cn" target="_blank">
         <img src="https://hulber.cn/img/icon.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
         <br/><b>Hulunbuir Tourism Portal</b><br/>
-        <sub>呼伦贝尔旅游门网</sub>
+        <sub>呼伦贝尔旅游网</sub>
       </a>
       <br/>
       <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
