@@ -33,53 +33,46 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="48%">
-      <a href="https://hulber.cn" target="_blank">
-        <img src="https://hulber.cn/img/icon.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
-        <br/><b>Hulunbuir Tourism Portal</b><br/>
-        <sub>呼伦贝尔旅游网</sub>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI%20Service-6A5ACD?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Itinerary-F39C12?style=flat-square"/>
-      <br/>
-      <em>Modern tourism portal with intelligent itinerary and OpenAI integration.</em>
-      <br/>
-      <sub>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </sub>
-    </td>
-    <td align="center" width="48%">
-      <a href="https://github.com/zyb200008/waimai-mini-program" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/shop.png" width="60" alt="waimai" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
-        <br/><b>Waimai Mini Program</b><br/>
-        <sub>外卖小程序</sub>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Merchant-27AE60?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Order%20Management-2980B9?style=flat-square"/>
-      <br/>
-      <em>Food delivery mini program for efficient merchant operations.</em>
-      <br/>
-      <sub>
-        <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </sub>
-    </td>
-  </tr>
-</table>
-  
+<p align="center">
+  <a href="https://hulber.cn" target="_blank">
+    <img src="https://hulber.cn/img/icon.png" width="60" alt="Hulunbuir"/><br>
+    <b>Hulunbuir Tourism Website</b>
+    <br>
+    <sub>Hulunbuir Tourism Portal</sub>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI Intelligence-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Custom Itineraries-F39C12?style=flat-square"/>
+  <br>
+  A modern tourism website integrated with OpenAI for intelligent itinerary planning, providing users with a personalized travel experience.
+  <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zyb200008/waimai-mini-program" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/shop.png" width="60" alt="waimai"/><br>
+    <b>Waimai Mini Program</b>
+    <br>
+    <sub>Waimai Mini Program</sub>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Merchant Management-27AE60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Order System-2980B9?style=flat-square"/>
+  <br>
+  An efficient food delivery mini program designed for merchants to easily manage menus, orders, and deliveries.
+  <br>
+  <img src="https://img.shields.io/badge/WeChat Mini Program-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 <a href="https://github.com/zyb200008?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Projects-1F6FEB?style=for-the-badge&logo=github" alt="View All"/>
 </a>
-
 </div>
 
 ---
@@ -189,48 +182,44 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="48%">
-      <a href="https://hulber.cn" target="_blank">
-        <img src="https://hulber.cn/img/icon.png" width="60" alt="travel" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
-        <br/><b>呼伦贝尔旅游网</b><br/>
-        <sub>Hulunbuir Tourism Portal</sub>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI智能-6A5ACD?style=flat-square"/>
-      <img src="https://img.shields.io/badge/个性化行程-F39C12?style=flat-square"/>
-      <br/>
-      <em>现代化旅游网站，智能行程与OpenAI集成。</em>
-      <br/>
-      <sub>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </sub>
-    </td>
-    <td align="center" width="48%">
-      <a href="https://github.com/zyb200008/waimai-mini-program" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/shop.png" width="60" alt="waimai" style="border-radius: 50%; box-shadow: 0 2px 8px #a0b4d6;"/>
-        <br/><b>外卖小程序</b><br/>
-        <sub>Waimai Mini Program</sub>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/商家管理-27AE60?style=flat-square"/>
-      <img src="https://img.shields.io/badge/订单系统-2980B9?style=flat-square"/>
-      <br/>
-      <em>专为商家打造的高效点餐配送小程序。</em>
-      <br/>
-      <sub>
-        <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://hulber.cn" target="_blank">
+    <img src="https://hulber.cn/img/icon.png" width="60" alt="Hulunbuir"/><br>
+    <b>呼伦贝尔旅游网</b>
+    <br>
+    <sub>Hulunbuir Tourism Portal</sub>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI智能-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/行程定制-F39C12?style=flat-square"/>
+  <br>
+  现代化旅游网站，集成OpenAI的智能行程规划，为用户提供个性化旅游体验。
+  <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zyb200008/waimai-mini-program" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/shop.png" width="60" alt="waimai"/><br>
+    <b>外卖小程序</b>
+    <br>
+    <sub>Waimai Mini Program</sub>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/商家管理-27AE60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/订单系统-2980B9?style=flat-square"/>
+  <br>
+  专为商家打造的高效点餐配送小程序，便捷管理菜单、订单及配送。
+  <br>
+  <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
   
 <a href="https://github.com/zyb200008?tab=repositories">
   <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E9%A1%B9%E7%9B%AE-1F6FEB?style=for-the-badge&logo=github" alt="View All"/>
