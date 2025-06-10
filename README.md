@@ -19,16 +19,6 @@
 
 ---
 
-### 👤 About Me
-
-- 🎓 Graduated from **Inner Mongolia Agricultural University**
-- 🏢 Software Engineer passionate about **AI**, **Web Development**, and **Open Source**
-- 🌱 Currently learning **LLM Applications** 
-- 🏸 Hobbies: Badminton, Fitness, Gaming, Guitar
-- 💡 "Learning is a journey, not a destination"
-
----
-
 ### 🚀 Highlight Projects
 
 <div align="center">
@@ -165,16 +155,6 @@
     </a>
   </p>
 </div>
-
----
-
-### 👤 关于我
-
-- 🎓 毕业于**内蒙古农业大学**目前是一名社畜软件开发
-- 🏢 软件工程师，热衷于 **AI**、**Web开发** 及 **开源**
-- 🌱 目前专注于学习 **大模型应用** 
-- 🏸 爱好：羽毛球、健身、游戏、吉他
-- 💡 “学习是旅程，而不是终点”
 
 ---
 
